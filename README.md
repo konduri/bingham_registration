@@ -24,5 +24,7 @@ address = {Boston, USA},
   author={Srivatsan, Rangaprasad Arun and Rosen, Gillian T and Naina, Feroze D and Choset, Howie},
   booktitle={Robotics : Science and Systems},
   number={10.15607/RSS.2016.XII.013},
-  year={2016}
+  month = June,
+  address = {Michigan, USA},
+  year={2016},
 }
